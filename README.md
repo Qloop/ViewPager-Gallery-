@@ -1,7 +1,8 @@
 # ViewPager-Gallery-
 ViewPager实现Gallery——仿慕课网app“职业路线计划”效果 
 
-###实现效果：
+### 实现效果：
+
 http://img.blog.csdn.net/20160327133530993
 
 点开链接就可以看到
