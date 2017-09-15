@@ -11,5 +11,3 @@ http://img.blog.csdn.net/20160327133530993
 http://blog.csdn.net/CodeNoodles/article/details/50992113
 
 如果喜欢这个效果请start or fork吧>。<
-
-在校生一枚，欢迎赐教
